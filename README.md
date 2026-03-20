@@ -1,3 +1,8 @@
+[Скачать | github](https://github.com/bububebe0/Taa-client-Vless-Hysteria2/releases)
+
+[Download | github](https://github.com/bububebe0/Taa-client-Vless-Hysteria2/releases)
+
+-------------------------------------------------------------------------------------------
 
 Taa Client графический клиент для подключения к прокси-серверам типа VLESS и Hysteria2. Приложение запускает локальный прокси-сервер (через sing-box) и настраивает системный прокси Windows, позволяя маршрутизировать трафик через выбранный сервер.
 
