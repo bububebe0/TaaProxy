@@ -41,7 +41,7 @@ Taa Client графический клиент для подключения к 
    - Импорт списка сайтов для split tunneling из текстового файла.
 
 Как это работает 
-- Все данные хранятся в `%LOCALAPPDATA%\TaaClient`:
+- Все данные хранятся в `TaaClient`:
   - `data/servers.json` — список серверов.
   - `data/settings.json` — настройки приложения.
   - `list/*.txt` — файлы списков split tunneling.
@@ -97,7 +97,7 @@ Taa Client is a graphical client for connecting to VLESS and Hysteria2 proxy ser
 8. Import Configurations
    - Import a list of sites for split tunneling from a text file.
 
-- All data is stored in `%LOCALAPPDATA%\TaaClient`:
+- All data is stored in `TaaClient`:
   - `data/servers.json` – list of servers.
   - `data/settings.json` – application settings.
   - `list/*.txt` – split tunneling route files.
