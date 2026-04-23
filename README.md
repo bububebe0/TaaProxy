@@ -6,7 +6,7 @@
 
 # Taa Proxy
 
-> **Windows GUI‑клиент для VLESS / Hysteria2 / Trojan на базе [sing‑box](https://github.com/SagerNet/sing‑box)**
+> **Windows GUI‑клиент для VLESS / Hysteria2 / Trojan на базе sing‑box**
 
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![.NET](https://img.shields.io/badge/.NET-8.0-purple)
