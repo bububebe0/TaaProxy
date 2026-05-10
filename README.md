@@ -15,7 +15,6 @@
 
 **Автор:** [bububebe0](https://github.com/bububebe0)  
 **Для связи:** [Telegram](https://t.me/Taaproxy?direct)
-[taaproxy.ru](https://taaproxy.ru/allversion)  
 
 ---
 
