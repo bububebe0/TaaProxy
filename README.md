@@ -10,7 +10,7 @@
 
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![.NET](https://img.shields.io/badge/.NET-8.0-purple)
-![Version](https://img.shields.io/badge/version-2.8.0-brightgreen)
+![Version](https://img.shields.io/badge/version-3.0.0-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 **Автор:** [bububebe0](https://github.com/bububebe0)  
