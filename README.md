@@ -14,7 +14,7 @@
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 **Автор:** [bububebe0](https://github.com/bububebe0)  
-**Для связи:** [Telegram](https://t.me/Taaproxy?direct)
+**Для связи:** [Telegram](https://t.me/bububebeINC?direct)
 
 ---
 
